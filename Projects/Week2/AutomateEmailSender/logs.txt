@@ -1,0 +1,2 @@
+DEBUG:schedule:Running job Job(interval=10, unit=seconds, do=<lambda>, args=(), kwargs={})
+ERROR:root:ERROR! Path C:/Users/xtyan/Desktop/attachment_exampl.txt cannot be accessed(probably does not exist)
