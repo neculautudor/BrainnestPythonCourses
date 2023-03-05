@@ -1,0 +1,69 @@
+2023-03-05 14:39:29,286 Running job Job(interval=10, unit=seconds, do=handle_scheduled_tasks, args=(), kwargs={})
+2023-03-05 14:39:37,482 Unable to retrieve file 'gnu' -  Error: 550 Failed to open file.
+2023-03-05 14:39:37,964 Unable to retrieve file 'gnu+linux-distros' -  Error: 550 Failed to open file.
+2023-03-05 14:39:39,669 Unable to retrieve file 'mirrors' -  Error: 550 Failed to open file.
+2023-03-05 14:39:40,150 Unable to retrieve file 'non-gnu' -  Error: 550 Failed to open file.
+2023-03-05 14:39:40,631 Unable to retrieve file 'old-gnu' -  Error: 550 Failed to open file.
+2023-03-05 14:39:41,112 Unable to retrieve file 'pub' -  Error: 550 Failed to open file.
+2023-03-05 14:39:41,594 Unable to retrieve file 'savannah' -  Error: 550 Failed to open file.
+2023-03-05 14:39:42,075 Unable to retrieve file 'third-party' -  Error: 550 Failed to open file.
+2023-03-05 14:39:42,555 Unable to retrieve file 'tmp' -  Error: 550 Failed to open file.
+2023-03-05 14:39:44,280 Unable to retrieve file 'video' -  Error: 550 Failed to open file.
+2023-03-05 14:39:54,911 Running job Job(interval=10, unit=seconds, do=handle_scheduled_tasks, args=(), kwargs={})
+2023-03-05 14:41:34,121 Running job Job(interval=30, unit=seconds, do=handle_scheduled_tasks, args=(), kwargs={})
+2023-03-05 14:41:41,879 Unable to retrieve file 'gnu' -  Error: 550 Failed to open file.
+2023-03-05 14:41:42,362 Unable to retrieve file 'gnu+linux-distros' -  Error: 550 Failed to open file.
+2023-03-05 14:41:44,381 Unable to retrieve file 'mirrors' -  Error: 550 Failed to open file.
+2023-03-05 14:41:44,868 Unable to retrieve file 'non-gnu' -  Error: 550 Failed to open file.
+2023-03-05 14:41:45,355 Unable to retrieve file 'old-gnu' -  Error: 550 Failed to open file.
+2023-03-05 14:41:45,840 Unable to retrieve file 'pub' -  Error: 550 Failed to open file.
+2023-03-05 14:41:46,325 Unable to retrieve file 'savannah' -  Error: 550 Failed to open file.
+2023-03-05 14:41:46,808 Unable to retrieve file 'third-party' -  Error: 550 Failed to open file.
+2023-03-05 14:41:47,291 Unable to retrieve file 'tmp' -  Error: 550 Failed to open file.
+2023-03-05 14:41:48,987 Unable to retrieve file 'video' -  Error: 550 Failed to open file.
+2023-03-05 14:43:00,000 Running job Job(interval=1, unit=days, do=handle_scheduled_tasks, args=(), kwargs={})
+2023-03-05 14:54:00,000 Running job Job(interval=1, unit=days, do=handle_scheduled_tasks, args=(), kwargs={})
+2023-03-05 14:54:00,382 Connected to server ftp.gnu.org
+2023-03-05 14:54:07,214 Unable to retrieve file 'gnu' -  Error: 550 Failed to open file.
+2023-03-05 14:54:07,701 Unable to retrieve file 'gnu+linux-distros' -  Error: 550 Failed to open file.
+2023-03-05 14:54:09,410 Unable to retrieve file 'mirrors' -  Error: 550 Failed to open file.
+2023-03-05 14:54:09,900 Unable to retrieve file 'non-gnu' -  Error: 550 Failed to open file.
+2023-03-05 14:54:10,388 Unable to retrieve file 'old-gnu' -  Error: 550 Failed to open file.
+2023-03-05 14:54:10,875 Unable to retrieve file 'pub' -  Error: 550 Failed to open file.
+2023-03-05 14:54:11,362 Unable to retrieve file 'savannah' -  Error: 550 Failed to open file.
+2023-03-05 14:54:11,849 Unable to retrieve file 'third-party' -  Error: 550 Failed to open file.
+2023-03-05 14:54:12,652 Unable to retrieve file 'tmp' -  Error: 550 Failed to open file.
+2023-03-05 14:54:14,385 Unable to retrieve file 'video' -  Error: 550 Failed to open file.
+2023-03-05 14:54:15,004  9 Files saved
+2023-03-05 14:54:15,018 Files moved from files to internal_network
+2023-03-05 14:54:15,142 Disconnected from the server
+2023-03-05 14:58:00,000 Running job Job(interval=1, unit=days, do=handle_scheduled_tasks, args=(), kwargs={})
+2023-03-05 14:58:00,263 Connected to server ftp.gnu.org
+2023-03-05 14:58:07,087 Unable to retrieve file 'gnu' -  Error: 550 Failed to open file.
+2023-03-05 14:58:07,574 Unable to retrieve file 'gnu+linux-distros' -  Error: 550 Failed to open file.
+2023-03-05 14:58:09,267 Unable to retrieve file 'mirrors' -  Error: 550 Failed to open file.
+2023-03-05 14:58:09,754 Unable to retrieve file 'non-gnu' -  Error: 550 Failed to open file.
+2023-03-05 14:58:10,241 Unable to retrieve file 'old-gnu' -  Error: 550 Failed to open file.
+2023-03-05 14:58:10,729 Unable to retrieve file 'pub' -  Error: 550 Failed to open file.
+2023-03-05 14:58:11,218 Unable to retrieve file 'savannah' -  Error: 550 Failed to open file.
+2023-03-05 14:58:11,707 Unable to retrieve file 'third-party' -  Error: 550 Failed to open file.
+2023-03-05 14:58:12,195 Unable to retrieve file 'tmp' -  Error: 550 Failed to open file.
+2023-03-05 14:58:13,911 Unable to retrieve file 'video' -  Error: 550 Failed to open file.
+2023-03-05 14:58:15,525  9 Files saved
+2023-03-05 14:58:15,535 Files moved from files to internal_network
+2023-03-05 14:58:15,657 Disconnected from the server
+2023-03-05 15:32:32,668 Connected to server ftp.gnu.org
+2023-03-05 15:32:40,459 Unable to retrieve file 'gnu' -  Error: 550 Failed to open file.
+2023-03-05 15:32:40,942 Unable to retrieve file 'gnu+linux-distros' -  Error: 550 Failed to open file.
+2023-03-05 15:32:42,649 Unable to retrieve file 'mirrors' -  Error: 550 Failed to open file.
+2023-03-05 15:32:43,133 Unable to retrieve file 'non-gnu' -  Error: 550 Failed to open file.
+2023-03-05 15:32:43,618 Unable to retrieve file 'old-gnu' -  Error: 550 Failed to open file.
+2023-03-05 15:32:44,101 Unable to retrieve file 'pub' -  Error: 550 Failed to open file.
+2023-03-05 15:32:44,584 Unable to retrieve file 'savannah' -  Error: 550 Failed to open file.
+2023-03-05 15:32:45,070 Unable to retrieve file 'third-party' -  Error: 550 Failed to open file.
+2023-03-05 15:32:45,552 Unable to retrieve file 'tmp' -  Error: 550 Failed to open file.
+2023-03-05 15:32:47,256 Unable to retrieve file 'video' -  Error: 550 Failed to open file.
+2023-03-05 15:32:47,869  9 Files saved
+2023-03-05 15:32:47,880 Files moved from files to internal_network
+2023-03-05 15:32:48,003 Disconnected from the server
+2023-03-05 15:37:13,069 Connected to server ftp.gnu.org
