@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61ea3f1c-662d-46ea-9305-742fb2a23523" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Exercises/Session5/fire_solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exercises/Session5/last_exercise_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_euler_02/ex1_numbers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_euler_02/project_euler_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercises/Session5/fire_solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercises/Session5/fire_solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercises/Session5/last_exercise_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercises/Session5/last_exercise_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/BrainnestGit/BrainnestPythonCourses/Projects/week3/automating_file_transfer/main.py"
+    "last_opened_file_path": "D:/BrainnestGit/BrainnestPythonCourses/Projects/week4/caesar_cracker.py"
   }
 }]]></component>
   <component name="RunManager">
